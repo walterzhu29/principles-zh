@@ -8,7 +8,7 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/principles)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/principles)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/principles)
-+ [代码仓库](https://github.com/apachecn/principles-zh)
++ [代码仓库](https://github.com/it-ebooks/principles-zh)
 
 ## 贡献和勘误
 
