@@ -30,6 +30,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install principles-zh
+principles-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
