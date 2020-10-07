@@ -26,3 +26,22 @@
 * * *
 
 如果您发现了书中的错误，请点击[**此处**](http://form.mikecrm.com/yt7KfR)填写《勘误收集表》。目前，我们已经收到部分读者的反馈，更新了书中的一些错误，在此对各位的火眼金睛表示感谢。
+
+
+## 下载
+
+### PYPI
+
+```
+pip install principles-zh
+principles-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g principles-zh
+principles-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
