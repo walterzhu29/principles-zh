@@ -5,6 +5,7 @@
 > 本书原载于网站[知笔墨](http://zhibimo.com/)，由于该网站无法访问，特地将本书备份到 Github。
 
 + [在线阅读](https://principles.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/principles-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/principles)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/principles)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/principles)
